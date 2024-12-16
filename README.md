@@ -1,9 +1,4 @@
-# Timing automatic forcast for weather models
-
-README.md
-
-# Forecast Automation Script
-
+# WeatherScheduler
 This repository contains scripts and utilities to automate forecast-related tasks. The execution is designed to run without `crontab`, using a simple loop to ensure the script executes twice daily at `UTC 00:00` and `UTC 12:00`.
 
 ## Repository Structure
